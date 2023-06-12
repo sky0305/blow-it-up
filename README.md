@@ -1,6 +1,6 @@
 Try_Fighting --> 遊戲規則 --> rule  
-	     --> if 小試身手 --> button  
-	     --> if 神仙打架 --> button42  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> if 小試身手 --> button  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> if 神仙打架 --> button42  
 
 附註：初次執行matlab --> F5 button的時候需要先開一次再重開，第二次後就沒有錯誤訊息了。  
 

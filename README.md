@@ -1,7 +1,7 @@
-此專案是以 MATLAB 仿作 App Holdings 工作室底下的一款遊戲 - [Chain Reaction](https://play.google.com/store/apps/details?id=com.BuddyMattEnt.ChainReaction&hl=zh_TW&gl=US)。
+此專案是以 MATLAB 仿作 App Holdings 工作室底下的一款遊戲 - [Chain Reaction](https://play.google.com/store/apps/details?id=com.BuddyMattEnt.ChainReaction&hl=zh_TW&gl=US)。  
 由清華大學生醫工程與環境科學系 22級 陳敬霖 陳O欣 蔡O珊 共同創作。  
-若有任何指教，歡迎來信討論。  
 
+若有任何指教，歡迎來信討論。  
 聯絡信箱：james156489723@yahoo.com  
 
 Try_Fighting --> 遊戲規則 --> rule  
